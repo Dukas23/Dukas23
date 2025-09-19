@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre], Backend Developer
+# ¡Hello! 👋 I'm Juan Carvajal, Backend Developer
 
 <h3 align="center">Especializado en arquitecturas escalables y APIs de alto rendimiento</h3>
 
