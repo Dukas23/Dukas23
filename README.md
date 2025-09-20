@@ -5,19 +5,13 @@
 ### 🛠️ Tech Stack
 
 **Lenguajes:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=go" width="50" /> |
-| **Java** | **Python** | **Go** |
+| <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" width="50" /> |
+| **Java**  | **Python** | **Sql** |
 
-</div>
+
 
 **Frameworks:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
