@@ -11,6 +11,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=go" width="50" /> |
+| **Java** | **Python** | **Go** |
+
+</div>
+
 **Frameworks:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
