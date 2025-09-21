@@ -6,31 +6,39 @@
 
 **Lenguajes:**
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" width="50" /> |
-| **![Java]( https://img.shields.io/badge/Java-FF9900)**| **Python** | **Sql** |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" width="50" /> |<img src="https://skillicons.dev/icons?i=dart" width="50" /> |
+| ![Java](https://img.shields.io/badge/Java-FF9900?style=for-the-badge)|![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge) | ![SQL](https://img.shields.io/badge/Sql-00758F?style=for-the-badge)| ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge)|
 
-![Java](https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white)
 
 **Frameworks:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=spring" width="50" /> | <img src="https://skillicons.dev/icons?i=fastapi" width="50" /> | <img src="https://skillicons.dev/icons?i=flask" width="50" /> | <img src="https://skillicons.dev/icons?i=flutter" width="50" /> |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)|![FastApi](https://img.shields.io/badge/FastApi-009688?style=for-the-badge) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)|![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge)|
+
 
 **Bases de Datos:**
+<!--
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+-->
 
+| | | 
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=postgres" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" width="50" /> 
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)|
+<!--
 **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
+-->
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
@@ -38,6 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukas23&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
+<!--
 ### 🚀 Proyectos Destacados
 
 #### [E-Commerce API](https://github.com/backend-architect/ecommerce-api)
@@ -71,3 +80,4 @@ Gateway personalizado con autenticación y rate limiting
 ---
 
 ⭐️ *Desde [backend-architect](https://github.com/backend-architect)*
+-->
