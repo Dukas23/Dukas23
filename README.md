@@ -9,9 +9,9 @@
 | | | |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=java" width="50" /> | <img src="https://skillicons.dev/icons?i=python" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" width="50" /> |
-| **Java**  | **Python** | **Sql** |
+| **![Java]( https://img.shields.io/badge/Java-FF9900)**| **Python** | **Sql** |
 
-
+![Java](https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white)
 
 **Frameworks:**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -34,8 +34,8 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=backend-architect&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backend-architect&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dukas23&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukas23&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ### 🚀 Proyectos Destacados
